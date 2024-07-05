@@ -38,22 +38,19 @@ Java
 <br/>
 
 ## 🎞️ 프로젝트 시연
-|메인화면|입출금계좌생성|
-|------|---|
-|<img width="100%" height=220px src="https://github.com/rudcks8389/project_ams/assets/158795491/5bbe85bf-09a4-4d34-9e3b-aaf57149d5eb">|<img width="100%" height=220px src="https://github.com/rudcks8389/project_ams/assets/158795491/faa05f92-b5cf-4ff2-924a-de1319b8ce4a">|
+| 메인화면 | 입출금계좌생성 |
+| --- | --- |
+| <div style="width: 100%; height: 220px;"><img style="width: 100%; height: 100%;" src="https://github.com/rudcks8389/project_ams/assets/158795491/fc35aefc-e3f3-4fa1-9327-d1b478c88ae9"></div> | <div style="width: 100%; height: 220px;"><img style="width: 100%; height: 100%;" src="https://github.com/rudcks8389/project_ams/assets/158795491/faa05f92-b5cf-4ff2-924a-de1319b8ce4a"></div> |
 
+| 대출계좌생성 | 계좌목록 |
+| --- | --- |
+| <div style="width: 100%; height: 220px;"><img style="width: 100%; height: 100%;" src="https://github.com/rudcks8389/project_ams/assets/158795491/c8ec3dd3-9b35-4628-9341-46fcf6ef28a2"></div> | <div style="width: 100%; height: 220px;"><img style="width: 100%; height: 100%;" src="https://github.com/rudcks8389/project_ams/assets/158795491/1c0a2530-a63c-4fe1-904d-24c83f6caf51"></div> |
 
-|대출계좌생성|계좌목록|
-|------|---|
-|<img width="100%" height=220px src="https://github.com/rudcks8389/project_ams/assets/158795491/c8ec3dd3-9b35-4628-9341-46fcf6ef28a2">|<img width="100%" height=220px src="https://github.com/rudcks8389/project_ams/assets/158795491/1c0a2530-a63c-4fe1-904d-24c83f6caf51">|
+| 예금 | 출금 |
+| --- | --- |
+| <div style="width: 100%; height: 220px;"><img style="width: 100%; height: 100%;" src="https://github.com/rudcks8389/project_ams/assets/158795491/0a7e827d-fff7-4052-8e97-bc70d5499ce1"></div> | <div style="width: 100%; height: 220px;"><img style="width: 100%; height: 100%;" src="https://github.com/rudcks8389/project_ams/assets/158795491/031b2b4d-a48a-4879-9d0d-e513241cffae"></div> |
 
-
-|예금|출금|
-|------|---|
-|<img width="100%" height=220px src="https://github.com/rudcks8389/project_ams/assets/158795491/0a7e827d-fff7-4052-8e97-bc70d5499ce1">|<img width="100%" height=220px src="https://github.com/rudcks8389/project_ams/assets/158795491/031b2b4d-a48a-4879-9d0d-e513241cffae">|
-
-
-|계좌검색|계좌삭제|
-|------|---|
-|<img width="100%" height=220px src="https://github.com/rudcks8389/project_ams/assets/158795491/416ca209-5e5b-4a7c-93b2-8d9069e992a6">|<img width="100%" height=220px src="https://github.com/rudcks8389/project_ams/assets/158795491/5f6aadc8-f3f6-44ed-9683-cfe0579bcf80">|
+| 계좌검색 | 계좌삭제 |
+| --- | --- |
+| <div style="width: 100%; height: 220px;"><img style="width: 100%; height: 100%;" src="https://github.com/rudcks8389/project_ams/assets/158795491/416ca209-5e5b-4a7c-93b2-8d9069e992a6"></div> | <div style="width: 100%; height: 220px;"><img style="width: 100%; height: 100%;" src="https://github.com/rudcks8389/project_ams/assets/158795491/5f6aadc8-f3f6-44ed-9683-cfe0579bcf80"></div> |
 
