@@ -28,8 +28,8 @@ Java
 ## 🎞️ 프로젝트 시연
 |메인화면|입출금계좌생성|
 |------|---|
-|<img width="50%" alt="스크린샷 2024-07-05 오후 7 29 26" src="https://github.com/rudcks8389/project_ams/assets/158795491/5bbe85bf-09a4-4d34-9e3b-aaf57149d5eb">
-|<img width="50%" alt="스크린샷 2024-07-05 오후 7 51 32" src="https://github.com/rudcks8389/project_ams/assets/158795491/faa05f92-b5cf-4ff2-924a-de1319b8ce4a">
+|<img width="40%" height=220px src="https://github.com/rudcks8389/project_ams/assets/158795491/5bbe85bf-09a4-4d34-9e3b-aaf57149d5eb">|
+|<img width="40%" height=220px src="https://github.com/rudcks8389/project_ams/assets/158795491/faa05f92-b5cf-4ff2-924a-de1319b8ce4a">|
 
 
 |대출계좌생성|계좌목록|
